@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-'''
-Created on Dec 16, 2009
 
-@author: Jörn Hees
-'''
 
 import scipy as sc
 import pylab as pl
